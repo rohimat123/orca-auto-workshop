@@ -1,0 +1,6 @@
+{
+  "name": "ORCA Auto Workshop",
+  "description": "Bengkel modifikasi mobil presisi, katalog velg original, dan kalkulator estimasi biaya modifikasi sebelum order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
