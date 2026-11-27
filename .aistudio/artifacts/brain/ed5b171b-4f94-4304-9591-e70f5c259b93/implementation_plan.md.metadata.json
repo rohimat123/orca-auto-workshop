@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for adding the 6-column Workshop Staff Roster (with Google Sheets / Apps Script live On Duty / Off Duty sync), the 4-item Upgrades step ($400 each: Engine, Body, Alarm, Fuel Tank) above Nitro in the Cost Calculator, and completing the Google Form -> Google Sheets -> Apps Script -> Discord Embed order flow.",
+  "updatedAt":  "2026-11-24T11:39:42.456769517Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
